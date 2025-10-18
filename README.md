@@ -38,7 +38,7 @@ An intelligent document question-answering system built with **Retrieval-Augment
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/smart-document-qa.git
+git clone https://github.com/ChinmayM06/document-qa-rag-ollama
 cd smart-document-qa
 ```
 
