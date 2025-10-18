@@ -174,7 +174,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- [Anthropic Claude](https://www.anthropic.com/) for development assistance
 - [Ollama](https://ollama.ai/) for local LLM inference
 - [Sentence Transformers](https://www.sbert.net/) for embeddings
 - [FAISS](https://github.com/facebookresearch/faiss) for vector search
